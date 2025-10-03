@@ -1,0 +1,26 @@
+﻿# Visual Studio Code
+.vscode/
+# OS
+Thumbs.db
+.DS_Store
+# Build outputs and runs
+**/*_Runs/
+**/*Runs/
+**/Runs/
+**/pic_sdram_Runs/
+**/UDP_EXAMPLE_Runs/
+# Quartus/Project outputs
+*.rpt
+*.log
+*.bit
+*.qws
+*.sof
+*.rbf
+*.map
+*.out.sdc
+# temporary
+*.tmp
+# backup
+*.bak
+# user/project machine files
+*.user
